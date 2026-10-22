@@ -1,5 +1,5 @@
 {
     "java.inlayHints.parameterNames.enabled": "none",
     "extensions.ignoreRecommendations": false,
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": false
 }
